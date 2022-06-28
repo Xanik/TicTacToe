@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "n2rqlYkT4+CWm/AAyQN9GTLXNLQLQRQv1/n9WanoRnnVePRgu1wNknOvD+/F3cBP7RRUvZO/kqtAhhgP5cke9g==",
+  "success": true,
+  "projectFilePath": "/Users/ikesandra/Documents/learn/TicTacToe/TicTacToe/TicTacToe.csproj",
+  "expectedPackageFiles": [
+    "/Users/ikesandra/.nuget/packages/microsoft.netcore.app/2.0.0/microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "/Users/ikesandra/.nuget/packages/microsoft.netcore.dotnetapphost/2.0.0/microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "/Users/ikesandra/.nuget/packages/microsoft.netcore.dotnethostpolicy/2.0.0/microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "/Users/ikesandra/.nuget/packages/microsoft.netcore.dotnethostresolver/2.0.0/microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "/Users/ikesandra/.nuget/packages/microsoft.netcore.platforms/2.0.0/microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "/Users/ikesandra/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
